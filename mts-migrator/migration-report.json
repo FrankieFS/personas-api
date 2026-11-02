@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-11-02T20:08:46.320Z",
+  "targetDir": "C:\\Users\\Frank\\Desktop\\API\\personas-api",
+  "backupDir": "C:\\Users\\Frank\\Desktop\\API\\personas-api\\mts-migrator\\backups\\2026-11-02T20-08-45-213Z",
+  "elapsedSeconds": 1.08,
+  "summary": {
+    "total": 10,
+    "migrated": 10,
+    "skipped": 0,
+    "errors": 0,
+    "typesRefined": 0
+  },
+  "files": [
+    {
+      "source": "app.js",
+      "target": "app.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "source": "src\\config\\db.js",
+      "target": "src\\config\\db.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "source": "src\\controllers\\persona.controller.js",
+      "target": "src\\controllers\\persona.controller.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "source": "src\\controllers\\saludo.controller.js",
+      "target": "src\\controllers\\saludo.controller.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "source": "src\\middlewares\\global.middleware.js",
+      "target": "src\\middlewares\\global.middleware.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "source": "src\\repos\\persona.repo.js",
+      "target": "src\\repos\\persona.repo.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "source": "src\\routes\\persona.route.js",
+      "target": "src\\routes\\persona.route.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "source": "src\\routes\\saludo.route.js",
+      "target": "src\\routes\\saludo.route.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "source": "src\\services\\persona.service.js",
+      "target": "src\\services\\persona.service.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "source": "src\\services\\saludo.service.js",
+      "target": "src\\services\\saludo.service.ts",
+      "status": "migrated",
+      "errors": [],
+      "warnings": []
+    }
+  ]
+}
